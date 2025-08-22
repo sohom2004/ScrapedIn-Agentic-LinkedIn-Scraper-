@@ -2,3 +2,4 @@
 scrapedin/
 .env
 __pycache__/
+linkedin_auth.json
