@@ -1,0 +1,10 @@
+dotenv
+streamlit
+playwright
+pandas
+bs4
+langgraph
+langchain_google_genai
+langchain_core
+pydantic
+asyncio
