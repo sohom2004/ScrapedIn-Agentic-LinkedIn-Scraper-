@@ -19,7 +19,7 @@ ScrapedIn is a LinkedIn scraping tool that allows you to extract data from Linke
 ### 1. Clone the repository & install dependencies  
 ```bash
 git clone https://github.com/sohom2004/ScrapedIn-Agentic-LinkedIn-Scraper-.git
-cd ScrapedIn
+cd ScrapedIn-Agentic-LinkedIn-Scraper
 pip install -r requirements.txt
 ```
 
